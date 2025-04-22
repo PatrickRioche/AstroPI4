@@ -2,7 +2,7 @@
 Installation distribution pour Setup avec un PI4B2G
 
 + via PI imager v1.8.5
-  + Installation ***RASPBERRY PI Full 64Bit***
+  + Installation ***Raspberry PI OS (Legacy, 64bit) Full Bullseye Desktop env and app 2,4Go Publié: 2024-10-22***
 
 ## KSTARS
 ```
