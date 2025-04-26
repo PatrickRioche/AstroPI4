@@ -1,4 +1,4 @@
-# AstroPI4
+# AstroPI48G
 Installation distribution pour Setup avec un PI4B2G
 
 + via PI imager v1.8.5
