@@ -11,3 +11,12 @@ sudo apt-add-repository ppa:mutlaqja/ppa
 sudo apt-get update
 sudo apt-get install indi-full kstars-bleeding
 ```
+
+## Reinitisaltion INDI
+```
+rm -rf ~/.config/kstarsrc
+rm -rf ~/.local/share/kstars
+rm -rf ~/.indi
+
+rm -rf ~/.cache/kstars
+```
