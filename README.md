@@ -12,7 +12,7 @@ sudo apt-get update
 sudo apt-get install indi-full kstars-bleeding
 ```
 
-## Reinitisaltion INDI
+## Reinitialisation INDI
 ```
 rm -rf ~/.config/kstarsrc
 rm -rf ~/.local/share/kstars
